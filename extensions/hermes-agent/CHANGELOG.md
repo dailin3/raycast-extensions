@@ -1,8 +1,6 @@
 # Changelog
 
-## 1.0.0
-
-{PR_MERGE_DATE}
+## [Initial Release] - {PR_MERGE_DATE}
 
 - Initial release
 - Ask Hermes: Quick question and answer
